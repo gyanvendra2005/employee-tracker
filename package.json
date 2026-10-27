@@ -1,0 +1,21 @@
+{
+  "name": "employee-tracker-desktop",
+  "version": "1.0.0",
+  "description": "Employee Attendance & Time Tracker Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "employee",
+    "tracker",
+    "attendance",
+    "desktop",
+    "electron"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^44.9.0"
+  }
+}
